@@ -1,14 +1,3 @@
-# Navigate to your project directory
-cd /path/to/your/PRODIGY_CS_02  # Replace with your actual path
-
-# Create the README file
-touch README.md
-
-# Open the README file in a text editor (you can use nano, vim, or any editor you prefer)
-nano README.md  # or use vim, code (VS Code), etc.
-
-# Add the following content in the README.md file:
-
 # Image Encryption Tool
 
 # This project is a simple image encryption tool that uses pixel manipulation techniques.
